@@ -18,10 +18,10 @@ public class Question02_1 {
 		String name = br.readLine();
 
 		System.out.print("好きなスポーツを入力してください。＞");
-		String hobby = br.readLine();
+		String sport = br.readLine();
 
 		System.out.println("私の名前は" + name + "です。");
-		System.out.println("好きなスポーツは" + hobby + "です。");
+		System.out.println("好きなスポーツは" + sport + "です。");
 
 	}
 }
